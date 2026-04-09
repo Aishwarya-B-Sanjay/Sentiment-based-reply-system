@@ -1,0 +1,18 @@
+[
+  {
+    "userText": "hello",
+    "botReply": "I see — sounds like a pretty measured, balanced moment. 📊 That's perfectly okay. Not everything needs to be a highlight reel.",
+    "sentiment": "neutral",
+    "emotions": [],
+    "score": 0,
+    "time": "4/9/2026, 8:39:52 PM"
+  },
+  {
+    "userText": "im doing well",
+    "botReply": "I love the upbeat tone here! 🌻 You seem to be in a good place. A little gratitude for these moments goes a long way.",
+    "sentiment": "positive",
+    "emotions": [],
+    "score": 0.2,
+    "time": "4/9/2026, 8:40:07 PM"
+  }
+]
